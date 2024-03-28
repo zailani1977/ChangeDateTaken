@@ -8,6 +8,7 @@ Zailani
 
 ## Description
 This Python script updates the date taken of an image file. It will alter the DateTimeOriginal, DateTime, and DateTimeDigitized tags.
+This utility is useful for photographer with multiple cameras who needs to perform bulk update on date time taken on the photos for sorting purposes.
 
 ## Dependencies
 - [exif]: A Python library to extract and edit EXIF data from JPEG images.
